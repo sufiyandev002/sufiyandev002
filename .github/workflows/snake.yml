@@ -22,25 +22,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
----
-
-### Step 3 — Run it manually the first time
-
-The `schedule` only runs automatically at midnight UTC. To generate it **right now**:
-
-1. Go to your repo on GitHub
-2. Click the **Actions** tab
-3. Click **Generate Snake Animation** in the left sidebar
-4. Click the **Run workflow** button → **Run workflow**
-
-Wait about 30–60 seconds. It will create an `output` branch with the SVG files inside.
-
----
-
-### Step 4 — Verify it worked
-
-Visit this URL in your browser:
-```
-https://raw.githubusercontent.com/Sufi-7571/Sufi-7571/output/github-contribution-grid-snake-dark.svg
