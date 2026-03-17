@@ -228,7 +228,7 @@ I'm always open to collaborating on ambitious projects — especially anything i
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Sufi-7571/Sufi-7571/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/sufiyandev002/sufiyandev002/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
