@@ -28,7 +28,7 @@ class SufiyanMirza extends Developer
 {
     public string $name     = "Sufiyan Mirza";
     public string $title    = "Owner @ ITmate";
-    public string $location = "📍 Lahore, Pakistan";
+    public string $location = "Faisalabad, Pakistan";
 
     public array $stack = [
         "backend"    => ["Laravel", "PHP", "Python", "FastAPI"],
